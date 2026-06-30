@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/vergessene-traume-erwachen/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Vergessene Träume erwachen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vergessene-traume-erwachen/) |
+| **Get License** | [Official Music Licensing for Vergessene Träume erwachen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vergessene-traume-erwachen/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Die Stadt ist laut, doch dein Blick ist wie Ice, Babe
+> Wir tanzen durch den Schatten, spürst du diesen Vibe, Babe?
+> Ich hol' dich ab im AMG, wir lassen alles steh'n
+> Vergessene Träume wach'n auf, wenn wir uns seh'n
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
