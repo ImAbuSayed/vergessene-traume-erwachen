@@ -15,7 +15,7 @@
 | **Written On** | June 30, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/vergessene-traume-erwachen/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Vergessene Träume erwachen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vergessene-traume-erwachen/) |
+| **Get License** | [License this song: Vergessene Träume erwachen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/vergessene-traume-erwachen/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1972952ef024d4cec5fe76b916e2d6ae8466211618203da880d8f6e465e6da39` |
 | **Timestamp** | June 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
